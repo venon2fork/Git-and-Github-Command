@@ -45,9 +45,9 @@ pour effacer une branche
 // Passons a github
 
 creer un pont entre le git contenant le code et github 
-=> git remote add origin https://github.com/venon2fork/Python_CreerUneListeDeCourse.git
+=> git remote add origin https://github.com/nom/Python.git
 
-verifier les depot distant  de github
+verifier les depots distant  de github
 => git remote
 
 puis maintenant que je suis connecter  il faut deposer son code sur github
