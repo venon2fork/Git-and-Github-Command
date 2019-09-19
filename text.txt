@@ -49,3 +49,6 @@ creer un pont entre le git contenant le code et github
 
 verifier les depot distant  de github
 => git remote
+
+puis maintenant que je suis connecter  il faut deposer son code sur github
+=>git push -u origin master
