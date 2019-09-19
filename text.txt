@@ -68,4 +68,4 @@ pour queles personne puisse modifier le depot distant
 aller dans setting collaborator et donner les nom des personnes
 =======
 =>git push -u origin master
->>>>>>> c36a7f2ff657c562ae6b307bf164f4cfa91f5638
+
