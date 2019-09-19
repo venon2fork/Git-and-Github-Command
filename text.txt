@@ -1,0 +1,51 @@
+# Identity Name
+git config --global user.name "name"
+
+# Identity Email
+git config --global user.email "name@gmail.com"
+
+
+initialiser Git pour pouvoir l'utiliser
+entrer dans le repertoire puis initilaiser git
+=> git init
+
+Voyons le status des fichiers
+=> git status
+
+selectionner les fichier a gitter
+=> git add nomdefichier
+ou git add .
+pour tous les fichiers
+
+puis commiter les fichier avec une description
+=> git commit -m "description du commit"
+
+
+avec git log afficher la liste des modifications 
+=> git log 
+
+creer une branch avec git branch et le nom de la branch
+=> git branch nomDeLaBranch
+
+pour afficher toutes les branche
+=> git branch
+
+pour changer de branche git checkout nomdelabranch
+=> git checkout nomdelabranche
+
+fusionner les modification faite sur la branch secondaire pour qu elle apparait sur la branch principal master
+=> git merge nomdelabranchArapatrier
+
+
+pour effacer une branche
+=> git branch -d nomdelabranch
+
+
+
+// Passons a github
+
+creer un pont entre le git contenant le code et github 
+=> git remote add origin https://github.com/venon2fork/Python_CreerUneListeDeCourse.git
+
+verifier les depot distant  de github
+=> git remote
