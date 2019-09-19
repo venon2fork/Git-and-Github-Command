@@ -45,12 +45,17 @@ pour effacer une branche
 // Passons a github
 
 creer un pont entre le git contenant le code et github 
+<<<<<<< HEAD
 => git remote add origin https://github.com/nom/Python_nom.git
+=======
+=> git remote add origin https://github.com/nom/Python.git
+>>>>>>> c36a7f2ff657c562ae6b307bf164f4cfa91f5638
 
-verifier les depot distant  de github
+verifier les depots distant  de github
 => git remote
 
 puis maintenant que je suis connecter  il faut deposer son code sur github
+<<<<<<< HEAD
 => git push -u origin master
 
 pour que les personnes puisse se connecter et rapatrier le projet
@@ -61,3 +66,6 @@ Puis faire un
 
 pour queles personne puisse modifier le depot distant 
 aller dans setting collaborator et donner les nom des personnes
+=======
+=>git push -u origin master
+>>>>>>> c36a7f2ff657c562ae6b307bf164f4cfa91f5638
