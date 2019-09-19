@@ -49,7 +49,7 @@ creer un pont entre le git contenant le code et github
 => git remote add origin https://github.com/nom/Python_nom.git
 =======
 => git remote add origin https://github.com/nom/Python.git
->>>>>>> c36a7f2ff657c562ae6b307bf164f4cfa91f5638
+
 
 verifier les depots distant  de github
 => git remote
